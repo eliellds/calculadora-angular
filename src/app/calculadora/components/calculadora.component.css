@@ -1,0 +1,25 @@
+.center {
+    height: 100vh;
+    background: rgb(60, 60, 66);
+}
+
+.calc-body {
+    border-radius: 5px;
+    box-shadow: 0 4px 10px 0;
+}
+
+.kz-btn {
+    width: 90%;
+    margin: 4px;
+}
+.kz-input-text {
+    margin-top: 3px;
+    width:96%;
+	margin-left:6px
+}
+.kz-pad-20 {
+	padding: 20px;
+}
+.col-xs-3, .col-xs-9 {
+	padding: 0px;
+}
